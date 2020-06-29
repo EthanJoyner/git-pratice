@@ -7,4 +7,6 @@ bruh
 hol up this is pretty cool
 
 one final test
-push push
+
+ok now this is a vs code test from windows
+pushpush
