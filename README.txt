@@ -7,3 +7,5 @@ bruh
 hol up this is pretty cool
 
 one final test
+
+ok now this is a vs code test from windows
